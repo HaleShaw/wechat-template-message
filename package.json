@@ -1,0 +1,17 @@
+{
+  "name": "TemplateMessage",
+  "version": "1.0.0",
+  "description": "Send wechat template message.",
+  "main": "TemplateMessage.js",
+  "scripts": {
+    "dev": "node TemplateMessage.js"
+  },
+  "keywords": [],
+  "author": "HaleShaw",
+  "license": "GPL3.0",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "eslintConfig": {},
+  "devDependencies": {}
+}
